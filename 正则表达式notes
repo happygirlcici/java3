@@ -1,0 +1,37 @@
+^ - start of line/text anchor
+$ - end of line/text anchor
+
+[a-z0-9_-] [a-z] - ranges
+[^a-z] - negated range, anyting that's not a lowercase letter
+[h-z]
+[2-7]
+^[a-z][0-9]+$
+^[a-z0-9]+$
+^[!@#$%^&*()][0-9]+$
+
+[0-9] or \d - same range: digits only
+
+. -> any character
+\. -> a dot  (sometimes "\\.")
+
+repeats always apply to preceeding item:
++ -> one or more
+* -> zero, one or more
+? -> optional (one or zero)
+{n,m} n times to m times repate, e.g {2,20}
+
+https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149
+
+
+Example for email (improved):
+^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z]{2,})$
+
+Example for integer value (signed):
+^-?[1-9][0-9]*$
+
+Example for IP address (structure only, NOT values):
+^[1-9][0-9]*(\.[1-9][0-9]*){3}$
+
+
+https://regex101.com
+that is online reg expression online tester tools

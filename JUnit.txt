@@ -1,0 +1,79 @@
+https://www.tutorialspoint.com/junit/junit_environment_setup.htm
+Junit test
+
+https://netbeans.org/kb/docs/java/junit-intro.html
+
+
+
+http://wiki.jikexueyuan.com/project/junit/test-framework.html
+Junit 入门教程
+Basic Usage
+API
+Writing 
+
+将Java编译器位置附加到系统路径
+
+Append Java compiler location to the System Path.
+
+
+Windows	Append the string C:\Program Files\Java\jdk1.6.0_21\bin at the end of the system variable, Path.
+Linux	export PATH = $PATH:$JAVA_HOME/bin/
+Mac	not required
+Verify Java installation using the command java -version as explained above.
+
+google Test-driven development
+
+TDO
+
+Unit Test
+
+Write unit tests for class Person.setName for following condition:
+
+----------------------------------------------------------------------
+Java Basic:
+https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/
+
+JPA
+
+Java API
+
+Java 泛型:
+http://www.runoob.com/java/java-generics.html
+
+Entity Framwork
+
+do not use entity class
+
+
+==============================================
+
+Start drink montreal
+http://www.startupdrinksmontreal.com/mailing-list.html
+www.notman.org
+www.mtlnewtech.com
+www.startuphoops.com
+www.mtlintech.com
+www.startupopenhouse.com
+www.startupfestival.com
+www.builtinmtl.com
+
+
+1. Subscribe to mailing lists for monthly networking
+http://mtlnewtech.com/
+2. Get a $10 set of simple biz cards
+Software Developer
+
+-first and last name
+-email
+-phone number
+
+3 Create (Update) your LinkedIn profile
+
+4 make sure there's no detrimental content Facebook on your facebook profile 
+
+don't put 
+
+a
+
+
+

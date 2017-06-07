@@ -1,0 +1,45 @@
+AllInputs!AllInputs!AllInputs!Name: dfsa; Age: 18-35; Pets :  Dog ; Contients is Africa Temperature is: 50;
+Name: dfdsf; Age: 18-35; Pets :  Dog ; Contients is Africa Temperature is: 50;
+
+Name: dfs; Age: 18-35; Pets :  Dog ; Contients is Africa Temperature is: 50;
+
+Name: dsfa; Age: 18-35; Pets :  Dog ; Contients is Africa ; Temperature is: 50;
+
+
+Name: sdfsf; Age:  Below 18; Pets :  Dog ; Contients is Africa ; Temperature is: 50;
+
+Name: sdfsf; Age:  Below 18; Pets :  Dog ; Contients is Africa ; Temperature is: 50;
+
+Name: sdfsf; Age:  Below 18; Pets : Cat Dog Others; Contients is Africa ; Temperature is: 50;
+
+Name: xcvxc; Age: 18-35; Pets : Cat  ; Contients is America ; Temperature is: 50;
+
+Name: vxcvffdvxc; Age: 18-35; Pets :  Dog ; Contients is Africa ; Temperature is: 50;
+
+Name: fdsf; Age: 18-35; Pets :  Dog ; Contients is Africa ; Temperature is: 50;
+
+Name: xdzfsd; Age: 18-35; Pets :  Dog ; Contients is Africa ; Temperature is: 50;
+
+Name: fdsfsd; Age: 18-35; Pets : Cat Dog ; Contients is Asia ; Temperature is: 50;
+
+Name: fsdf; Age: 18-35; Pets :  Dog ; Contients is Africa ; Temperature is: 50;
+
+Name: fsdf; Age: 18-35; Pets :  Dog ; Contients is Asia ; Temperature is: 50;
+
+Name: fsdf; Age: 18-35; Pets :  Dog ; Contients is Asia ; Temperature is: 50;
+
+Name: fsdf; Age: 18-35; Pets :  Dog ; Contients is Asia ; Temperature is: 50;
+
+Name: sdfsa; Age: 18-35; Pets :  Dog ; Contients is Africa ; Temperature is: 26;
+
+Name: dsf; Age: >36; Pets :  Dog ; Contients is Africa ; Temperature is: 23;
+
+Name: dsa; Age: >36; Pets : Cat Dog,  ; Contients is Africa ; Temperature is: 25;
+
+Name: sdfsf; Age:  Below 18; Pets : Cat Dog Others; Contients is Africa ; Temperature is: 50;
+
+Name: sdfsf; Age:  Below 18; Pets : Cat Dog Others; Contients is Africa ; Temperature is: 50;
+
+Name: sdfsf; Age:  Below 18; Pets : Cat Dog Others; Contients is Africa ; Temperature is: 50;
+
+Name: sdfsf; Age:  Below 18; Pets : Cat Dog Others; Contients is Africa ; Temperature is: 50;

@@ -1,0 +1,59 @@
+Are you sure you want to perform the following operation(s):
+Create Table "main"."customers"
+SQL:
+CREATE  TABLE "main"."customers" ("customerID" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "nameFirst" VARCHAR, "nameLast" VARCHAR, "address" VARCHAR, "postalcode" VARCHAR, "phoneNumber" VARCHAR, "SIN" VARCHAR);
+
+Are you sure you want to perform the following operation(s):
+Create Table "main"."Interaction"
+SQL:
+CREATE  TABLE "main"."Interaction" ("interactionID" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "customerID" INTEGER, "repID" INTEGER, "date" VARCHAR, "notes" VARCHAR);
+
+CREATE TABLE "customers" ("customerID" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "nameFirst" VARCHAR, "nameLast" VARCHAR, "address" VARCHAR, "postalcode" VARCHAR, "phoneNumber" VARCHAR, "SIN" VARCHAR);
+
+
+table Customer
+- customerID - INT AI PK
+- nameFirst - VC(100)
+- nameLast - VC(100)
+- address - VC(100)
+- postalCode - VC(6)
+- phoneNumber - VC(10)
+- SIN - VC(9)
+
+table Interaction
+- interactionID - INT AI PK
+- customerID - INT -> Customer.customerID
+- repID INT -> Representative.representativeID
+- date VC(10) YYYY-MM-DD
+- notes VC(2000) or TEXT
+
+table Representative
+- representativeID - INT AI PK
+- nameFirst - VC(100)
+- nameLast - VC(100)
+
+INSERT INTO Representative (representativeID,nameFirst,nameLast) VALUES (1, 'John', 'Smith');
+
+INSERT INTO Representative (representativeID,nameFirst,nameLast) VALUES (2, 'Willim', 'Goodness');
+
+INSERT INTO customers (CustomerID,nameFirst,nameLast,address,postalCode,phoneNumber,SIN) VALUES ('', 'Lady', 'Gaga','Mainland USA','10010','1231231','zfgt678');
+INSERT INTO customers (CustomerID,nameFirst,nameLast,address,postalCode,phoneNumber,SIN) VALUES (2, 'Cathy', 'Black','small iland CA','452334','1323671','zgfdsb78');
+
+
+select * from customers;
+===============================
+
+
+jListRep
+
+jListCustomer
+
+listModelRep
+listModelCustomer
+
+
+dlgAddRep
+
+dlgtfNameFirst
+
+dlgbtRepCancel
